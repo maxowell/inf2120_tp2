@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f82bc0c9-20a3-42ed-9772-866f04b2be60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Remplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Traduction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jamo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jamo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TexteCoreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TexteCoreen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +33,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../equipe24" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="this.DI.add(1);" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -81,25 +91,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583874818387" />
-    <state width="1877" height="126" key="GridCell.Tab.0.bottom" timestamp="1583529060901">
+    <state width="1877" height="126" key="GridCell.Tab.0.bottom" timestamp="1584739939237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583529060901" />
-    <state width="1877" height="126" key="GridCell.Tab.0.center" timestamp="1583529060900">
+    <state width="1877" height="126" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584739939237" />
+    <state width="1877" height="126" key="GridCell.Tab.0.center" timestamp="1584739939237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="126" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583529060900" />
-    <state width="1877" height="126" key="GridCell.Tab.0.left" timestamp="1583529060900">
+    <state width="1877" height="126" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584739939237" />
+    <state width="1877" height="126" key="GridCell.Tab.0.left" timestamp="1584739939237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="126" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583529060900" />
-    <state width="1877" height="126" key="GridCell.Tab.0.right" timestamp="1583529060900">
+    <state width="1877" height="126" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584739939237" />
+    <state width="1877" height="126" key="GridCell.Tab.0.right" timestamp="1584739939237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="126" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583529060900" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583522749777">
+    <state width="1877" height="126" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584739939237" />
+    <state x="606" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584738847260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583522749777" />
+    <state x="606" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584738847260" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584739069900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584739069900" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584737825701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584737825701" />
   </component>
 </project>
