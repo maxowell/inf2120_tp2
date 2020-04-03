@@ -1,5 +1,5 @@
+import java.awt.*;
 import java.awt.event.ActionListener;
-import java.awt.GridBagLayout;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -17,7 +17,7 @@ public class Fenetre extends JFrame {
         super( Textes.TITRE_FENETRE );
         setDefaultCloseOperation( EXIT_ON_CLOSE );
         setLayout( new GridBagLayout() );
-
+        setFont(new Font("Arial", Font.BOLD, 24));
         textAreaCoreen =
                 new JTextArea( Constantes.TEXT_AREA_COREEN_NBR_LIGNES, Constantes.TEXT_AREA_COREEN_NBR_COLONNES );
         add( textAreaCoreen, Constantes.POSITION_TEXT_AREA_COREEN );
