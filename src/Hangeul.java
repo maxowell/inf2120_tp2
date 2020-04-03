@@ -1,3 +1,9 @@
+// @author Mathieu Des Lauriers
+// @author Maxime Ouellet
+
+/**
+* Classe permettant la création d'un objet Hangeul.
+*/
 public class Hangeul {
     protected int ci;
     protected int vi;
