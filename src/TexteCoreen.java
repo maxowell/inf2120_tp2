@@ -1,5 +1,10 @@
+// @author Maxime Ouellet
+// @author Mathieu Des Lauriers
 import java.util.ArrayList;
 
+/**
+* Classe permettant la manipulation et la traduction de texte Coréen.
+*/
 public class TexteCoreen {
     protected String texte;
     protected ArrayList<Integer> codePoints;
