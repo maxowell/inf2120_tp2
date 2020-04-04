@@ -5,6 +5,14 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextArea;
 
+/**
+ * Logiciel qui traduit un texte coréen en phonétique international.
+ *
+ * @author Maxime Ouellet
+ * @author Mathieu Des Lauriers
+ * @version 1.0.0
+ */
+
 public class Fenetre extends JFrame {
     private JButton buttonTraduire;
     private JTextArea textAreaCoreen;

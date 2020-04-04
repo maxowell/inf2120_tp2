@@ -1,5 +1,10 @@
-// @author Mathieu Des Lauriers
-// @author Maxime Ouellet
+/**
+ * Logiciel qui traduit un texte coréen en phonétique international.
+ *
+ * @author Maxime Ouellet
+ * @author Mathieu Des Lauriers
+ * @version 1.0.0
+ */
 
 /**
 * Classe permettant la création d'un objet Hangeul.

@@ -3,6 +3,14 @@
 import java.util.ArrayList;
 
 /**
+ * Logiciel qui traduit un texte coréen en phonétique international.
+ *
+ * @author Maxime Ouellet
+ * @author Mathieu Des Lauriers
+ * @version 1.0.0
+ */
+
+/**
 * Classe permettant la traduction des Hangeuls en texte international et
 * permettant de transformer les Hangeuls qui ont des consonnes qui se suivent.
 */

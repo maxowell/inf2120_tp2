@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfd41f2-86e7-4978-b8b8-295352bacf4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2 inf2120.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Fenetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fenetre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jamo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangeul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hangeul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hangeul.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Remplacement.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TexteCoreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TexteCoreen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Textes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Textes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Traduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Traduction.java" afterDir="false" />
@@ -51,7 +46,7 @@
       <recent name="C:\Users\matde\Desktop\tp2_2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="JUnit.TexteCoreenTest">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="tp2_2" />
@@ -100,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal" />
         <item itemvalue="JUnit.TexteCoreenTest" />
+        <item itemvalue="Application.Principal" />
         <item itemvalue="JUnit.TexteCoreenTest.no" />
         <item itemvalue="JUnit.TexteCoreenTest.traduireJamo49" />
         <item itemvalue="JUnit.TexteCoreenTest.traduireJamo6" />
@@ -151,30 +146,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="396" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1585782356711" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585933140033">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585970726128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1585860001074" />
     <state width="1637" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1585447911897" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585933140033" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585933140033">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585970726128" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585970726128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1585860001073" />
     <state width="1637" height="345" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1585447911897" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585933140033" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585933140033">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585970726128" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585970726128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1585860001073" />
     <state width="1637" height="345" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1585447911897" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585933140033" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585933140033">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585970726128" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585970726128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1585860001073" />
     <state width="1637" height="345" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1585447911897" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585933140033" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585970726128" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585806252884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
