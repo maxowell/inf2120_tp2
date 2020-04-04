@@ -1,5 +1,11 @@
+// @author Maxime Ouellet
+// @author Mathieu Des Lauriers
 import java.util.ArrayList;
 
+/**
+* Classe permettant la traduction des Hangeuls en texte international et
+* permettant de transformer les Hangeuls qui ont des consonnes qui se suivent.
+*/
 public class Traduction {
 
     /**
